@@ -1,1 +1,1 @@
-# practice-githubAction-deploy
+# practice-gitAction-deploy
