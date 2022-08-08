@@ -1,10 +1,10 @@
-package com.codestates.practicegithubActiondeploy;
+package com.deploy.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PracticeGithubActionDeployApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
