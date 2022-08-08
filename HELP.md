@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'com.codestates.practice-githubAction-deploy' is invalid and this project uses 'com.codestates.practicegithubActiondeploy' instead.
-
 # Getting Started
 
 ### Reference Documentation
